@@ -1,2 +1,4 @@
 # sahaynishant342.github.io
-Website for my blogs
+This repository will be used to build and publish GitHub Pages site for my blogs.
+
+It contains a Jekyll site.
